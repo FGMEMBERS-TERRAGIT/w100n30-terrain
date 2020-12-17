@@ -1,0 +1,4 @@
+OBJECT_BASE 1449986.btg
+OBJECT KUBX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.427345 38.070373 309.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -91.427587 38.065414 309.2 0.00

@@ -1,0 +1,4 @@
+OBJECT_BASE 1384248.btg
+OBJECT KMLC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.782335 34.882628 226.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -95.784134 34.885665 227.9 0.00

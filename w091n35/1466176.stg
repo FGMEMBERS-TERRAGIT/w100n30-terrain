@@ -1,0 +1,7 @@
+OBJECT_BASE 1466176.btg
+OBJECT AR72.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.773193 35.039186 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.773143 35.039227 -9999.0 0.00
+OBJECT KDRP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.824437 35.125579 69.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.822780 35.123275 69.4 0.00

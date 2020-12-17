@@ -1,0 +1,18 @@
+OBJECT_BASE 1433096.btg
+OBJECT 6R1.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.827859 30.242094 4.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.831490 30.243862 3.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.826418 30.241070 4.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -92.826114 30.242829 5.0 0.00
+OBJECT LS18.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.779222 30.221881 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.774108 30.224830 6.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.770511 30.220200 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.775625 30.217250 4.7 0.00
+OBJECT LS72.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.812859 30.203250 3.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.812545 30.204315 3.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.811685 30.204152 3.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.811635 30.201655 2.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.812495 30.201818 3.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.811320 30.202720 3.0 0.00
